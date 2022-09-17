@@ -5,3 +5,4 @@ Add Your Git Questions Here
 3.git pull, fetch and git merge
 4.what is git stash
 
+* Rohit Singhs
